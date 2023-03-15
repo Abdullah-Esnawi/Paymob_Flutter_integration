@@ -1,4 +1,5 @@
 include ':paymob_plugin'
+include ':progressfragment'
 include ':acceptsdk-release'
 project(':paymob_plugin').projectDir = file('android')
 project(':acceptsdk-release').projectDir = file('android/acceptsdk-release')
