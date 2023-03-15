@@ -1,3 +1,4 @@
+include ':app'
 include ':paymob_plugin'
 include ':progressfragment'
 include ':acceptsdk-release'
